@@ -1,2 +1,4 @@
 # Housing-Prices-Competition
-Housing Prices Competition for Kaggle on Kaggle
+Machine Learning Competition on Kaggle: predicting the final prices of residential homes in Ames, Iowa using 79 explanatory variables.
+
+Competition page on Kaggle: https://www.kaggle.com/c/home-data-for-ml-course
